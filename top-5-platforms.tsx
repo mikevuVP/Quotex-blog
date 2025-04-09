@@ -1,0 +1,1 @@
+export default function Top5platforms() { return <div className='p-8'>Blog content placeholder for top-5-platforms</div>; }

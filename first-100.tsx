@@ -1,0 +1,1 @@
+export default function First100() { return <div className='p-8'>Blog content placeholder for first-100</div>; }

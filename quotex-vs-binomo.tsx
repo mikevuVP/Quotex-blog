@@ -1,0 +1,1 @@
+export default function Quotexvsbinomo() { return <div className='p-8'>Blog content placeholder for quotex-vs-binomo</div>; }

@@ -1,0 +1,1 @@
+export default function Demoaccounts() { return <div className='p-8'>Blog content placeholder for demo-accounts</div>; }

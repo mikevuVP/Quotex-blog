@@ -1,0 +1,1 @@
+export default function 20daily() { return <div className='p-8'>Blog content placeholder for 20-daily</div>; }

@@ -1,0 +1,1 @@
+export default function Nokyc() { return <div className='p-8'>Blog content placeholder for no-kyc</div>; }
